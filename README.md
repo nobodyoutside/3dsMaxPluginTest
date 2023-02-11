@@ -1,0 +1,2 @@
+# 3dsMaxPluginTest
+test project
